@@ -8,7 +8,7 @@ Code to reproduce the results of the paper "A way to deal with 5-dimensional tab
 
 ## R packages
 
-- rtauargus 1.2.0 - currently a dev version on branch https://github.com/inseefrlab/rtauargus/tree/dev2023
+- rtauargus 1.2.0 - [https://github.com/inseefrlab/rtauargus]()
 - sdcHierarchies
 - dplyr
 - igraph
